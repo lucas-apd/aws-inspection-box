@@ -8,6 +8,14 @@ A ideia é que esse projeto apoie times dando visibilidade sobre itens de segura
  - Não é para ser em tempo real;
  - Fazer o básico para qualquer time que trabalhe com AWS;
 
+#### Porquê?
+ - Reports são chatos;
+ - Quem paga nossos salários não curte terminal;
+ - As ferramentas ou estão muito complexas ou são pagas;
+ - Não encontrei nada com dashboard;
+ - Dashboards são bonitos;
+
+
 #### Verificações:
  - GuardDuty está habilitado?
  - Quais portas estão públicas?
