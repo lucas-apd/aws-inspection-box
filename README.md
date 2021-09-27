@@ -10,7 +10,7 @@ A ideia é que esse projeto apoie times dando visibilidade sobre itens de segura
 
 #### Porquê?
  - Reports são chatos;
- - Quem paga nossos salários não curte terminal;
+ - Quem paga nossos salários não curte terminal e json;
  - As ferramentas ou estão muito complexas ou são pagas;
  - Não encontrei nada com dashboard;
  - Dashboards são bonitos;
