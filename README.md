@@ -14,6 +14,7 @@ A ideia é que esse projeto apoie times dando visibilidade sobre itens de segura
  - As ferramentas ou estão muito complexas ou são pagas;
  - Não encontrei nada com dashboard;
  - Dashboards são bonitos;
+ - Porque sim!
 
 
 #### Verificações:
